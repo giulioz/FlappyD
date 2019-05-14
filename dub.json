@@ -1,0 +1,10 @@
+{
+  "authors": ["Giulio Zausa"],
+  "copyright": "Copyright © 2019, Giulio Zausa",
+  "description": "A minimal D application.",
+  "license": "proprietary",
+  "name": "flappyd",
+  "dependencies": {
+    "derelict-sdl2": "~>3.1.0-alpha.4"
+  }
+}

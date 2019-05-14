@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/flappyd
+flappyd.so
+flappyd.dylib
+flappyd.dll
+flappyd.a
+flappyd.lib
+flappyd-test-*
+*.exe
+*.o
+*.obj
+*.lst
+.DS_Store
+.vscode
